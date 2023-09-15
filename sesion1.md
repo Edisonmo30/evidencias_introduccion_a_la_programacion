@@ -4,6 +4,6 @@
 ## Sesión 1 
 
 
-**Presentación grupal sobre conceptos básicos de la web.**
+**Actividad 1: Presentación grupal sobre conceptos básicos de la web.**
 
 Exposiciones grupales
