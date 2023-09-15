@@ -4,10 +4,6 @@
 ## Sesión 1 
 
 
-<!-- Su documentación aquí -->
+**Presentación grupal sobre conceptos básicos de la web**
 
-
-
-
-
-
+Exposiciones grupales
