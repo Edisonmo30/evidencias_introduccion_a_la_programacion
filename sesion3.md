@@ -4,7 +4,7 @@
 ## Sesión 3 
 
 
-**Actividad 3: Adición de contenido multimedia en un sitio web utilizando etiquetas HTML5.**
+**Actividad 3: Adición de contenido multimedia en un sitio web utilizando etiquetas HTML5**
 
 **Index:**
 

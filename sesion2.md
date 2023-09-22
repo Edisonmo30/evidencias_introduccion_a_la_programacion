@@ -4,7 +4,7 @@
 ## Sesión 2
 
 
-**Actividad 2: Creando mi primer sitio web.**
+**Actividad 2: Creando mi primer sitio web**
 
 **Index:**
 

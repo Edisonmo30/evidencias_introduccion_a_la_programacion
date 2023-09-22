@@ -4,7 +4,7 @@
 ## Sesión 5 
 
 
-**Actividad 5: Diseñar un formulario de pedido de un producto.**
+**Actividad 5: Diseñar un formulario de pedido de un producto**
 
 ```html
 <!DOCTYPE html>

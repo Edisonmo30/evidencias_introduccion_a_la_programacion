@@ -4,7 +4,7 @@
 ## Sesión 4
 
 
-**Actividad 4: Crear una tabla HTML con información sobre productos.**
+**Actividad 4: Crear una tabla HTML con información sobre productos**
 
 ```html
 <!DOCTYPE html>
