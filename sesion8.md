@@ -35,8 +35,8 @@ Aplica los siguientes estilos usando seleccionadores de ID:
 
 Aplica los siguientes estilos usando seleccionadores descendientes:
 
-Color gris a los párrafos dentro de un ```<div>```
-Centrar el contenido de la sección ```<section>```
+* Color gris a los párrafos dentro de un ```<div>```
+* Centrar el contenido de la sección ```<section>```
 
 ```html
 <!DOCTYPE html>
