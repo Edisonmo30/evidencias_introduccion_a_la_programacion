@@ -13,6 +13,9 @@ Requerimientos del proyecto:
 * Crea un proyecto web de diseño libre.
 * Documentar el repositorio en el archivo README.md
 
-[Link página en Github](https://github.com/Edisonmo30/Herbacea_Taller.git)
+[Link Respositorio](https://github.com/Edisonmo30/Herbacea_Taller.git)
+[Link Página](https://edisonmo30.github.io/Herbacea_Taller/)
+
+
 
 
